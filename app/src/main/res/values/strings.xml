@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ShootingGame_MVP</string>
+    <string name="str_rotate">Rotate</string>
+    <string name="str_fire">Fire</string>
+    <string name="str_life">Life : xx</string>
+    <string name="cannon_drawing">Cannon</string>
+    <string name="bullet_drawing">Bullet</string>
+    <string name="enemy_drawing">Enemy</string>
+    <string name="light_bullet">light_bullet</string>
+    <string name="normal_bullet">normal_bullet</string>
+    <string name="heavy_bullet">heavy_bullet</string>
+    <string name="enemy_ufo">enemy_ufo</string>
+    <string name="game_end">Game Over</string>
+</resources>
